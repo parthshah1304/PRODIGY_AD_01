@@ -1,4 +1,4 @@
-# podigy_ad_01
+# Flutter Simple Calculator App
 
 A new Flutter project.
 
